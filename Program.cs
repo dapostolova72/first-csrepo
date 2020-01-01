@@ -7,7 +7,29 @@ using System.Threading.Tasks;
 namespace _5.Преобразуване_на_скорост
 {
     class Program
-    {
+    { static float times(float h, float m, float s)
+        { 
+            float time = h * 3600 + m * 60 + s;
+            return time;
+        }
+        //vremeto v chas//
+        static float timeh(float h, float m, float s)
+        {   
+            float timechas = h + m / 60 + s / 3600;
+            return timechas;
+        }
+        //metrite v mili//
+        static float mili(float r)
+        { 
+            float metrivmili = r / 1609;
+            return metrivmili ;
+        }
+        //razstoianieto v km//
+        static float razskm(float r)
+        {
+            float rkm = r / 1000;
+            return rkm;
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("Vavedete razstoianieto v metri");
@@ -18,11 +40,12 @@ namespace _5.Преобразуване_на_скорост
             float m = float.Parse(Console.ReadLine());
             Console.WriteLine("Vavedete secundi");
             float s = float.Parse(Console.ReadLine());
-            //vremeto v sekundi/
-            float time = h * 3600 + m * 60 + s;
+
+            
            Console.WriteLine(r/times(h,m,s));
             Console.WriteLine(razskm(r) / timeh(h, m, s));
             Console.WriteLine(mili(r)/timeh(h,m,s));
+
 
            
 
