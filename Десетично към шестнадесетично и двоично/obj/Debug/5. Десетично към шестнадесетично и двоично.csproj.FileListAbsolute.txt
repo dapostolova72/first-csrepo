@@ -1,0 +1,6 @@
+D:\Users\DA\Documents\DA\DAIT\Tipove danni\5. Десетично към шестнадесетично и двоично\bin\Debug\_5.Десетично_към_шестнадесетично_и_двоично.exe.config
+D:\Users\DA\Documents\DA\DAIT\Tipove danni\5. Десетично към шестнадесетично и двоично\bin\Debug\_5.Десетично_към_шестнадесетично_и_двоично.exe
+D:\Users\DA\Documents\DA\DAIT\Tipove danni\5. Десетично към шестнадесетично и двоично\bin\Debug\_5.Десетично_към_шестнадесетично_и_двоично.pdb
+D:\Users\DA\Documents\DA\DAIT\Tipove danni\5. Десетично към шестнадесетично и двоично\obj\Debug\5. Десетично към шестнадесетично и двоично.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Tipove danni\5. Десетично към шестнадесетично и двоично\obj\Debug\_5.Десетично_към_шестнадесетично_и_двоично.exe
+D:\Users\DA\Documents\DA\DAIT\Tipove danni\5. Десетично към шестнадесетично и двоично\obj\Debug\_5.Десетично_към_шестнадесетично_и_двоично.pdb
