@@ -1,0 +1,6 @@
+D:\Users\DA\Documents\DA\DAIT\Metodi\Znak na cialo chislo\bin\Debug\Znak na cialo chislo.exe.config
+D:\Users\DA\Documents\DA\DAIT\Metodi\Znak na cialo chislo\bin\Debug\Znak na cialo chislo.exe
+D:\Users\DA\Documents\DA\DAIT\Metodi\Znak na cialo chislo\bin\Debug\Znak na cialo chislo.pdb
+D:\Users\DA\Documents\DA\DAIT\Metodi\Znak na cialo chislo\obj\Debug\Znak na cialo chislo.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Metodi\Znak na cialo chislo\obj\Debug\Znak na cialo chislo.exe
+D:\Users\DA\Documents\DA\DAIT\Metodi\Znak na cialo chislo\obj\Debug\Znak na cialo chislo.pdb

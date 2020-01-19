@@ -1,0 +1,7 @@
+D:\Users\DA\Documents\DA\DAIT\Masivi\den ot sedmicata\bin\Debug\den ot sedmicata.exe.config
+D:\Users\DA\Documents\DA\DAIT\Masivi\den ot sedmicata\bin\Debug\den ot sedmicata.exe
+D:\Users\DA\Documents\DA\DAIT\Masivi\den ot sedmicata\bin\Debug\den ot sedmicata.pdb
+D:\Users\DA\Documents\DA\DAIT\Masivi\den ot sedmicata\obj\Debug\den ot sedmicata.csprojAssemblyReference.cache
+D:\Users\DA\Documents\DA\DAIT\Masivi\den ot sedmicata\obj\Debug\den ot sedmicata.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Masivi\den ot sedmicata\obj\Debug\den ot sedmicata.exe
+D:\Users\DA\Documents\DA\DAIT\Masivi\den ot sedmicata\obj\Debug\den ot sedmicata.pdb

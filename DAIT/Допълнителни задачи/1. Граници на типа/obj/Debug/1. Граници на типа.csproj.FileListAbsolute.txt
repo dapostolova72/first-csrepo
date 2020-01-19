@@ -1,0 +1,7 @@
+D:\Users\DA\Documents\DA\DAIT\Допълнителни задачи\1. Граници на типа\bin\Debug\_1.Граници_на_типа.exe.config
+D:\Users\DA\Documents\DA\DAIT\Допълнителни задачи\1. Граници на типа\bin\Debug\_1.Граници_на_типа.exe
+D:\Users\DA\Documents\DA\DAIT\Допълнителни задачи\1. Граници на типа\bin\Debug\_1.Граници_на_типа.pdb
+D:\Users\DA\Documents\DA\DAIT\Допълнителни задачи\1. Граници на типа\obj\Debug\1. Граници на типа.csprojAssemblyReference.cache
+D:\Users\DA\Documents\DA\DAIT\Допълнителни задачи\1. Граници на типа\obj\Debug\1. Граници на типа.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Допълнителни задачи\1. Граници на типа\obj\Debug\_1.Граници_на_типа.exe
+D:\Users\DA\Documents\DA\DAIT\Допълнителни задачи\1. Граници на типа\obj\Debug\_1.Граници_на_типа.pdb

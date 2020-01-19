@@ -1,0 +1,7 @@
+D:\Users\DA\Documents\DA\DAIT\Логически изрази и проверки\C1. Проверка за отлична оценка\bin\Debug\C1.Проверка_за_отлична_оценка.exe.config
+D:\Users\DA\Documents\DA\DAIT\Логически изрази и проверки\C1. Проверка за отлична оценка\bin\Debug\C1.Проверка_за_отлична_оценка.exe
+D:\Users\DA\Documents\DA\DAIT\Логически изрази и проверки\C1. Проверка за отлична оценка\bin\Debug\C1.Проверка_за_отлична_оценка.pdb
+D:\Users\DA\Documents\DA\DAIT\Логически изрази и проверки\C1. Проверка за отлична оценка\obj\Debug\C1. Проверка за отлична оценка.csprojAssemblyReference.cache
+D:\Users\DA\Documents\DA\DAIT\Логически изрази и проверки\C1. Проверка за отлична оценка\obj\Debug\C1. Проверка за отлична оценка.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Логически изрази и проверки\C1. Проверка за отлична оценка\obj\Debug\C1.Проверка_за_отлична_оценка.exe
+D:\Users\DA\Documents\DA\DAIT\Логически изрази и проверки\C1. Проверка за отлична оценка\obj\Debug\C1.Проверка_за_отлична_оценка.pdb

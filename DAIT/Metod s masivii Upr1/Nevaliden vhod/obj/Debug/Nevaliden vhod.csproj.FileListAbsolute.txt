@@ -1,0 +1,7 @@
+D:\Users\DA\Documents\DA\DAIT\Metod s masivii Upr1\Nevaliden vhod\bin\Debug\Nevaliden vhod.exe.config
+D:\Users\DA\Documents\DA\DAIT\Metod s masivii Upr1\Nevaliden vhod\bin\Debug\Nevaliden vhod.exe
+D:\Users\DA\Documents\DA\DAIT\Metod s masivii Upr1\Nevaliden vhod\bin\Debug\Nevaliden vhod.pdb
+D:\Users\DA\Documents\DA\DAIT\Metod s masivii Upr1\Nevaliden vhod\obj\Debug\Nevaliden vhod.csprojAssemblyReference.cache
+D:\Users\DA\Documents\DA\DAIT\Metod s masivii Upr1\Nevaliden vhod\obj\Debug\Nevaliden vhod.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Metod s masivii Upr1\Nevaliden vhod\obj\Debug\Nevaliden vhod.exe
+D:\Users\DA\Documents\DA\DAIT\Metod s masivii Upr1\Nevaliden vhod\obj\Debug\Nevaliden vhod.pdb

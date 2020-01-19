@@ -1,0 +1,6 @@
+D:\Users\DA\Documents\DA\DAIT\2. Правоъгълник от N x N звездички\bin\Debug\_2.Правоъгълник_от_N_x_N_звездички.exe.config
+D:\Users\DA\Documents\DA\DAIT\2. Правоъгълник от N x N звездички\bin\Debug\_2.Правоъгълник_от_N_x_N_звездички.exe
+D:\Users\DA\Documents\DA\DAIT\2. Правоъгълник от N x N звездички\bin\Debug\_2.Правоъгълник_от_N_x_N_звездички.pdb
+D:\Users\DA\Documents\DA\DAIT\2. Правоъгълник от N x N звездички\obj\Debug\2. Правоъгълник от N x N звездички.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\2. Правоъгълник от N x N звездички\obj\Debug\_2.Правоъгълник_от_N_x_N_звездички.exe
+D:\Users\DA\Documents\DA\DAIT\2. Правоъгълник от N x N звездички\obj\Debug\_2.Правоъгълник_от_N_x_N_звездички.pdb

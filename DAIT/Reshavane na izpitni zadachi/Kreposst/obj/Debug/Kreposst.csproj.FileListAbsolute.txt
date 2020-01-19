@@ -1,0 +1,6 @@
+D:\Users\DA\Documents\DA\DAIT\Reshavane na izpitni zadachi\Kreposst\bin\Debug\Kreposst.exe.config
+D:\Users\DA\Documents\DA\DAIT\Reshavane na izpitni zadachi\Kreposst\bin\Debug\Kreposst.exe
+D:\Users\DA\Documents\DA\DAIT\Reshavane na izpitni zadachi\Kreposst\bin\Debug\Kreposst.pdb
+D:\Users\DA\Documents\DA\DAIT\Reshavane na izpitni zadachi\Kreposst\obj\Debug\Kreposst.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Reshavane na izpitni zadachi\Kreposst\obj\Debug\Kreposst.exe
+D:\Users\DA\Documents\DA\DAIT\Reshavane na izpitni zadachi\Kreposst\obj\Debug\Kreposst.pdb

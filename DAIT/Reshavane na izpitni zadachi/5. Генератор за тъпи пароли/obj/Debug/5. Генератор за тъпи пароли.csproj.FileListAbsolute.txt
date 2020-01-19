@@ -1,0 +1,6 @@
+D:\Users\DA\Documents\DA\DAIT\Reshavane na izpitni zadachi\5. Генератор за тъпи пароли\bin\Debug\_5.Генератор_за_тъпи_пароли.exe.config
+D:\Users\DA\Documents\DA\DAIT\Reshavane na izpitni zadachi\5. Генератор за тъпи пароли\bin\Debug\_5.Генератор_за_тъпи_пароли.exe
+D:\Users\DA\Documents\DA\DAIT\Reshavane na izpitni zadachi\5. Генератор за тъпи пароли\bin\Debug\_5.Генератор_за_тъпи_пароли.pdb
+D:\Users\DA\Documents\DA\DAIT\Reshavane na izpitni zadachi\5. Генератор за тъпи пароли\obj\Debug\5. Генератор за тъпи пароли.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Reshavane na izpitni zadachi\5. Генератор за тъпи пароли\obj\Debug\_5.Генератор_за_тъпи_пароли.exe
+D:\Users\DA\Documents\DA\DAIT\Reshavane na izpitni zadachi\5. Генератор за тъпи пароли\obj\Debug\_5.Генератор_за_тъпи_пароли.pdb

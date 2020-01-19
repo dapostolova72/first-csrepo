@@ -1,0 +1,7 @@
+D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\metod sort\bin\Debug\metod sort.exe.config
+D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\metod sort\bin\Debug\metod sort.exe
+D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\metod sort\bin\Debug\metod sort.pdb
+D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\metod sort\obj\Debug\metod sort.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\metod sort\obj\Debug\metod sort.exe
+D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\metod sort\obj\Debug\metod sort.pdb
+D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\metod sort\obj\Debug\metod sort.csprojAssemblyReference.cache

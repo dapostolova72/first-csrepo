@@ -1,0 +1,7 @@
+D:\Users\DA\Documents\DA\DAIT\Допълнителни задачи\Proverka za chislo 3\obj\Debug\Proverka za chislo 3.csprojAssemblyReference.cache
+D:\Users\DA\Documents\DA\DAIT\Допълнителни задачи\Proverka za chislo 3\obj\Debug\Proverka za chislo 3.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Допълнителни задачи\Proverka za chislo 3\bin\Debug\Proverka za chislo 3.exe.config
+D:\Users\DA\Documents\DA\DAIT\Допълнителни задачи\Proverka za chislo 3\bin\Debug\Proverka za chislo 3.exe
+D:\Users\DA\Documents\DA\DAIT\Допълнителни задачи\Proverka za chislo 3\bin\Debug\Proverka za chislo 3.pdb
+D:\Users\DA\Documents\DA\DAIT\Допълнителни задачи\Proverka za chislo 3\obj\Debug\Proverka za chislo 3.exe
+D:\Users\DA\Documents\DA\DAIT\Допълнителни задачи\Proverka za chislo 3\obj\Debug\Proverka za chislo 3.pdb

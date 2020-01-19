@@ -1,0 +1,7 @@
+D:\Users\DA\Documents\DA\DAIT\Допълнителни задачи\Прогноза за жремето\bin\Debug\Прогноза за жремето.exe.config
+D:\Users\DA\Documents\DA\DAIT\Допълнителни задачи\Прогноза за жремето\bin\Debug\Прогноза за жремето.exe
+D:\Users\DA\Documents\DA\DAIT\Допълнителни задачи\Прогноза за жремето\bin\Debug\Прогноза за жремето.pdb
+D:\Users\DA\Documents\DA\DAIT\Допълнителни задачи\Прогноза за жремето\obj\Debug\Прогноза за жремето.csprojAssemblyReference.cache
+D:\Users\DA\Documents\DA\DAIT\Допълнителни задачи\Прогноза за жремето\obj\Debug\Прогноза за жремето.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Допълнителни задачи\Прогноза за жремето\obj\Debug\Прогноза за жремето.exe
+D:\Users\DA\Documents\DA\DAIT\Допълнителни задачи\Прогноза за жремето\obj\Debug\Прогноза за жремето.pdb

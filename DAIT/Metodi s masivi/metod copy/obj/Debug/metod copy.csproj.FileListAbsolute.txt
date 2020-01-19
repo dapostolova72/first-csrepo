@@ -1,0 +1,7 @@
+D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\metod copy\bin\Debug\metod copy.exe.config
+D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\metod copy\bin\Debug\metod copy.exe
+D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\metod copy\bin\Debug\metod copy.pdb
+D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\metod copy\obj\Debug\metod copy.csprojAssemblyReference.cache
+D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\metod copy\obj\Debug\metod copy.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\metod copy\obj\Debug\metod copy.exe
+D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\metod copy\obj\Debug\metod copy.pdb

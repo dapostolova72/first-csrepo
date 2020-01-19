@@ -1,0 +1,6 @@
+D:\Users\DA\Documents\DA\DAIT\Логически изрази и проверки\6. Еднакви думи\bin\Debug\_6.Еднакви_думи.exe.config
+D:\Users\DA\Documents\DA\DAIT\Логически изрази и проверки\6. Еднакви думи\bin\Debug\_6.Еднакви_думи.exe
+D:\Users\DA\Documents\DA\DAIT\Логически изрази и проверки\6. Еднакви думи\bin\Debug\_6.Еднакви_думи.pdb
+D:\Users\DA\Documents\DA\DAIT\Логически изрази и проверки\6. Еднакви думи\obj\Debug\6. Еднакви думи.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Логически изрази и проверки\6. Еднакви думи\obj\Debug\_6.Еднакви_думи.exe
+D:\Users\DA\Documents\DA\DAIT\Логически изрази и проверки\6. Еднакви думи\obj\Debug\_6.Еднакви_думи.pdb

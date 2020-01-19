@@ -1,0 +1,7 @@
+D:\Users\DA\Documents\DA\DAIT\Metod s masivii Upr1\Задача.1. Обработка на масив\bin\Debug\Задача._1.Обработка_на_масив.exe.config
+D:\Users\DA\Documents\DA\DAIT\Metod s masivii Upr1\Задача.1. Обработка на масив\bin\Debug\Задача._1.Обработка_на_масив.exe
+D:\Users\DA\Documents\DA\DAIT\Metod s masivii Upr1\Задача.1. Обработка на масив\bin\Debug\Задача._1.Обработка_на_масив.pdb
+D:\Users\DA\Documents\DA\DAIT\Metod s masivii Upr1\Задача.1. Обработка на масив\obj\Debug\Задача.1. Обработка на масив.csprojAssemblyReference.cache
+D:\Users\DA\Documents\DA\DAIT\Metod s masivii Upr1\Задача.1. Обработка на масив\obj\Debug\Задача.1. Обработка на масив.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Metod s masivii Upr1\Задача.1. Обработка на масив\obj\Debug\Задача._1.Обработка_на_масив.exe
+D:\Users\DA\Documents\DA\DAIT\Metod s masivii Upr1\Задача.1. Обработка на масив\obj\Debug\Задача._1.Обработка_на_масив.pdb

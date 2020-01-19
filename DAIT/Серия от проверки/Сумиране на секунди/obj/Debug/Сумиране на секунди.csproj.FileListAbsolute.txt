@@ -1,0 +1,6 @@
+D:\Users\DA\Documents\DA\DAIT\Серия от проверки\Сумиране на секунди\obj\Debug\Сумиране на секунди.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Серия от проверки\Сумиране на секунди\bin\Debug\Сумиране на секунди.exe.config
+D:\Users\DA\Documents\DA\DAIT\Серия от проверки\Сумиране на секунди\bin\Debug\Сумиране на секунди.exe
+D:\Users\DA\Documents\DA\DAIT\Серия от проверки\Сумиране на секунди\bin\Debug\Сумиране на секунди.pdb
+D:\Users\DA\Documents\DA\DAIT\Серия от проверки\Сумиране на секунди\obj\Debug\Сумиране на секунди.exe
+D:\Users\DA\Documents\DA\DAIT\Серия от проверки\Сумиране на секунди\obj\Debug\Сумиране на секунди.pdb

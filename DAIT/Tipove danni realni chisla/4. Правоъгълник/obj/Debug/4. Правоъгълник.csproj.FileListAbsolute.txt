@@ -1,0 +1,6 @@
+D:\Users\DA\Documents\DA\DAIT\Tipove danni realni chisla\4. Правоъгълник\bin\Debug\_4.Правоъгълник.exe.config
+D:\Users\DA\Documents\DA\DAIT\Tipove danni realni chisla\4. Правоъгълник\bin\Debug\_4.Правоъгълник.exe
+D:\Users\DA\Documents\DA\DAIT\Tipove danni realni chisla\4. Правоъгълник\bin\Debug\_4.Правоъгълник.pdb
+D:\Users\DA\Documents\DA\DAIT\Tipove danni realni chisla\4. Правоъгълник\obj\Debug\4. Правоъгълник.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Tipove danni realni chisla\4. Правоъгълник\obj\Debug\_4.Правоъгълник.exe
+D:\Users\DA\Documents\DA\DAIT\Tipove danni realni chisla\4. Правоъгълник\obj\Debug\_4.Правоъгълник.pdb

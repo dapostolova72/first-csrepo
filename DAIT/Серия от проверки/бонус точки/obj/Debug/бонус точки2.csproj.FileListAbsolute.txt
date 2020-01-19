@@ -1,0 +1,6 @@
+D:\Users\DA\Documents\DA\DAIT\Серия от проверки\бонус точки\bin\Debug\бонус точки.exe.config
+D:\Users\DA\Documents\DA\DAIT\Серия от проверки\бонус точки\bin\Debug\бонус точки.exe
+D:\Users\DA\Documents\DA\DAIT\Серия от проверки\бонус точки\bin\Debug\бонус точки.pdb
+D:\Users\DA\Documents\DA\DAIT\Серия от проверки\бонус точки\obj\Debug\бонус точки2.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Серия от проверки\бонус точки\obj\Debug\бонус точки.exe
+D:\Users\DA\Documents\DA\DAIT\Серия от проверки\бонус точки\obj\Debug\бонус точки.pdb

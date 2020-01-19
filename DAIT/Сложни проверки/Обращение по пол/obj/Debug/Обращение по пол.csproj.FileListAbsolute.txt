@@ -1,0 +1,7 @@
+D:\Users\DA\Documents\DA\DAIT\Сложни проверки\Обращение по пол\bin\Debug\Обращение по пол.exe.config
+D:\Users\DA\Documents\DA\DAIT\Сложни проверки\Обращение по пол\bin\Debug\Обращение по пол.exe
+D:\Users\DA\Documents\DA\DAIT\Сложни проверки\Обращение по пол\bin\Debug\Обращение по пол.pdb
+D:\Users\DA\Documents\DA\DAIT\Сложни проверки\Обращение по пол\obj\Debug\Обращение по пол.csprojAssemblyReference.cache
+D:\Users\DA\Documents\DA\DAIT\Сложни проверки\Обращение по пол\obj\Debug\Обращение по пол.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Сложни проверки\Обращение по пол\obj\Debug\Обращение по пол.exe
+D:\Users\DA\Documents\DA\DAIT\Сложни проверки\Обращение по пол\obj\Debug\Обращение по пол.pdb

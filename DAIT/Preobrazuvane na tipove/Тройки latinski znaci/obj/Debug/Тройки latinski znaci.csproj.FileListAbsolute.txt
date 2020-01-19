@@ -1,0 +1,7 @@
+D:\Users\DA\Documents\DA\DAIT\Preobrazuvane na tipove\Тройки latinski znaci\bin\Debug\Тройки latinski znaci.exe.config
+D:\Users\DA\Documents\DA\DAIT\Preobrazuvane na tipove\Тройки latinski znaci\bin\Debug\Тройки latinski znaci.exe
+D:\Users\DA\Documents\DA\DAIT\Preobrazuvane na tipove\Тройки latinski znaci\bin\Debug\Тройки latinski znaci.pdb
+D:\Users\DA\Documents\DA\DAIT\Preobrazuvane na tipove\Тройки latinski znaci\obj\Debug\Тройки latinski znaci.csprojAssemblyReference.cache
+D:\Users\DA\Documents\DA\DAIT\Preobrazuvane na tipove\Тройки latinski znaci\obj\Debug\Тройки latinski znaci.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Preobrazuvane na tipove\Тройки latinski znaci\obj\Debug\Тройки latinski znaci.exe
+D:\Users\DA\Documents\DA\DAIT\Preobrazuvane na tipove\Тройки latinski znaci\obj\Debug\Тройки latinski znaci.pdb

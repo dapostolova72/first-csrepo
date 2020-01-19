@@ -1,0 +1,6 @@
+D:\Users\DA\Documents\DA\DAIT\Въвеждане елементи на масив\Обръщане на масив от низове\bin\Debug\Обръщане на масив от низове.exe.config
+D:\Users\DA\Documents\DA\DAIT\Въвеждане елементи на масив\Обръщане на масив от низове\bin\Debug\Обръщане на масив от низове.exe
+D:\Users\DA\Documents\DA\DAIT\Въвеждане елементи на масив\Обръщане на масив от низове\bin\Debug\Обръщане на масив от низове.pdb
+D:\Users\DA\Documents\DA\DAIT\Въвеждане елементи на масив\Обръщане на масив от низове\obj\Debug\Обръщане на масив от низове.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Въвеждане елементи на масив\Обръщане на масив от низове\obj\Debug\Обръщане на масив от низове.exe
+D:\Users\DA\Documents\DA\DAIT\Въвеждане елементи на масив\Обръщане на масив от низове\obj\Debug\Обръщане на масив от низове.pdb

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Точна сума на реални числа", "3. Точна сума на реални числа\3. Точна сума на реални числа.csproj", "{A141AB2E-9590-4214-9962-D01D9D8E4FD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Правоъгълник", "4. Правоъгълник\4. Правоъгълник.csproj", "{7D428A88-8D96-4BC2-9F26-04F7F874E4DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Преобразуване на скорост", "5. Преобразуване на скорост\5. Преобразуване на скорост.csproj", "{A33312A5-3848-4BD1-942A-BCF5F9ED6E74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "skorost s metod", "skorost s metod\skorost s metod.csproj", "{247269BB-D7F9-426A-B031-8291EA3B4EEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A141AB2E-9590-4214-9962-D01D9D8E4FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A141AB2E-9590-4214-9962-D01D9D8E4FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A141AB2E-9590-4214-9962-D01D9D8E4FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A141AB2E-9590-4214-9962-D01D9D8E4FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D428A88-8D96-4BC2-9F26-04F7F874E4DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D428A88-8D96-4BC2-9F26-04F7F874E4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D428A88-8D96-4BC2-9F26-04F7F874E4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D428A88-8D96-4BC2-9F26-04F7F874E4DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A33312A5-3848-4BD1-942A-BCF5F9ED6E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A33312A5-3848-4BD1-942A-BCF5F9ED6E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A33312A5-3848-4BD1-942A-BCF5F9ED6E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A33312A5-3848-4BD1-942A-BCF5F9ED6E74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{247269BB-D7F9-426A-B031-8291EA3B4EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{247269BB-D7F9-426A-B031-8291EA3B4EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{247269BB-D7F9-426A-B031-8291EA3B4EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{247269BB-D7F9-426A-B031-8291EA3B4EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2E6909E-FF7F-4570-B263-7C14F5BAE224}
+	EndGlobalSection
+EndGlobal

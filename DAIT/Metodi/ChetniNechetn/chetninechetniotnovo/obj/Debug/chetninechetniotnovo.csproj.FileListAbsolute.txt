@@ -1,0 +1,7 @@
+D:\Users\DA\Documents\DA\DAIT\Metodi\ChetniNechetn\chetninechetniotnovo\bin\Debug\chetninechetniotnovo.exe.config
+D:\Users\DA\Documents\DA\DAIT\Metodi\ChetniNechetn\chetninechetniotnovo\bin\Debug\chetninechetniotnovo.exe
+D:\Users\DA\Documents\DA\DAIT\Metodi\ChetniNechetn\chetninechetniotnovo\bin\Debug\chetninechetniotnovo.pdb
+D:\Users\DA\Documents\DA\DAIT\Metodi\ChetniNechetn\chetninechetniotnovo\obj\Debug\chetninechetniotnovo.csprojAssemblyReference.cache
+D:\Users\DA\Documents\DA\DAIT\Metodi\ChetniNechetn\chetninechetniotnovo\obj\Debug\chetninechetniotnovo.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Metodi\ChetniNechetn\chetninechetniotnovo\obj\Debug\chetninechetniotnovo.exe
+D:\Users\DA\Documents\DA\DAIT\Metodi\ChetniNechetn\chetninechetniotnovo\obj\Debug\chetninechetniotnovo.pdb

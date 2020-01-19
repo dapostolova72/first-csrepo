@@ -1,0 +1,6 @@
+D:\Users\DA\Documents\DA\DAIT\Практически задачи прости задачи върху масиви сумиране максимален елемент търсене на елемент\chesto sreshtan element 2\bin\Debug\chesto sreshtan element 2.exe.config
+D:\Users\DA\Documents\DA\DAIT\Практически задачи прости задачи върху масиви сумиране максимален елемент търсене на елемент\chesto sreshtan element 2\bin\Debug\chesto sreshtan element 2.exe
+D:\Users\DA\Documents\DA\DAIT\Практически задачи прости задачи върху масиви сумиране максимален елемент търсене на елемент\chesto sreshtan element 2\bin\Debug\chesto sreshtan element 2.pdb
+D:\Users\DA\Documents\DA\DAIT\Практически задачи прости задачи върху масиви сумиране максимален елемент търсене на елемент\chesto sreshtan element 2\obj\Debug\chesto sreshtan element 2.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Практически задачи прости задачи върху масиви сумиране максимален елемент търсене на елемент\chesto sreshtan element 2\obj\Debug\chesto sreshtan element 2.exe
+D:\Users\DA\Documents\DA\DAIT\Практически задачи прости задачи върху масиви сумиране максимален елемент търсене на елемент\chesto sreshtan element 2\obj\Debug\chesto sreshtan element 2.pdb

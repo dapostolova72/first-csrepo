@@ -1,0 +1,7 @@
+D:\Users\DA\Documents\DA\DAIT\Tipove danni realni chisla\5. Преобразуване на скорост\bin\Debug\_5.Преобразуване_на_скорост.exe.config
+D:\Users\DA\Documents\DA\DAIT\Tipove danni realni chisla\5. Преобразуване на скорост\bin\Debug\_5.Преобразуване_на_скорост.exe
+D:\Users\DA\Documents\DA\DAIT\Tipove danni realni chisla\5. Преобразуване на скорост\bin\Debug\_5.Преобразуване_на_скорост.pdb
+D:\Users\DA\Documents\DA\DAIT\Tipove danni realni chisla\5. Преобразуване на скорост\obj\Debug\5. Преобразуване на скорост.csprojAssemblyReference.cache
+D:\Users\DA\Documents\DA\DAIT\Tipove danni realni chisla\5. Преобразуване на скорост\obj\Debug\5. Преобразуване на скорост.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Tipove danni realni chisla\5. Преобразуване на скорост\obj\Debug\_5.Преобразуване_на_скорост.exe
+D:\Users\DA\Documents\DA\DAIT\Tipove danni realni chisla\5. Преобразуване на скорост\obj\Debug\_5.Преобразуване_на_скорост.pdb

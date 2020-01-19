@@ -1,0 +1,6 @@
+D:\Users\DA\Documents\DA\DAIT\Tipove danni\2. Цели числа\bin\Debug\_2.Цели_числа.exe.config
+D:\Users\DA\Documents\DA\DAIT\Tipove danni\2. Цели числа\bin\Debug\_2.Цели_числа.exe
+D:\Users\DA\Documents\DA\DAIT\Tipove danni\2. Цели числа\bin\Debug\_2.Цели_числа.pdb
+D:\Users\DA\Documents\DA\DAIT\Tipove danni\2. Цели числа\obj\Debug\2. Цели числа.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Tipove danni\2. Цели числа\obj\Debug\_2.Цели_числа.exe
+D:\Users\DA\Documents\DA\DAIT\Tipove danni\2. Цели числа\obj\Debug\_2.Цели_числа.pdb

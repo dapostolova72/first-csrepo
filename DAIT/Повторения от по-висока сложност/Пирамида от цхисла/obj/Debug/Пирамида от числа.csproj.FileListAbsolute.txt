@@ -1,0 +1,6 @@
+D:\Users\DA\Documents\DA\DAIT\Повторения от по-висока сложност\Пирамида от цхисла\bin\Debug\Пирамида от цхисла.exe.config
+D:\Users\DA\Documents\DA\DAIT\Повторения от по-висока сложност\Пирамида от цхисла\bin\Debug\Пирамида от цхисла.exe
+D:\Users\DA\Documents\DA\DAIT\Повторения от по-висока сложност\Пирамида от цхисла\bin\Debug\Пирамида от цхисла.pdb
+D:\Users\DA\Documents\DA\DAIT\Повторения от по-висока сложност\Пирамида от цхисла\obj\Debug\Пирамида от числа.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Повторения от по-висока сложност\Пирамида от цхисла\obj\Debug\Пирамида от цхисла.exe
+D:\Users\DA\Documents\DA\DAIT\Повторения от по-висока сложност\Пирамида от цхисла\obj\Debug\Пирамида от цхисла.pdb

@@ -1,0 +1,7 @@
+D:\Users\DA\Documents\DA\DAIT\Sortirane na masivi\Задача.1. Сравняване на символни масиви\bin\Debug\Задача._1.Сравняване_на_символни_масиви.exe.config
+D:\Users\DA\Documents\DA\DAIT\Sortirane na masivi\Задача.1. Сравняване на символни масиви\bin\Debug\Задача._1.Сравняване_на_символни_масиви.exe
+D:\Users\DA\Documents\DA\DAIT\Sortirane na masivi\Задача.1. Сравняване на символни масиви\bin\Debug\Задача._1.Сравняване_на_символни_масиви.pdb
+D:\Users\DA\Documents\DA\DAIT\Sortirane na masivi\Задача.1. Сравняване на символни масиви\obj\Debug\Задача.1. Сравняване на символни масиви.csprojAssemblyReference.cache
+D:\Users\DA\Documents\DA\DAIT\Sortirane na masivi\Задача.1. Сравняване на символни масиви\obj\Debug\Задача.1. Сравняване на символни масиви.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Sortirane na masivi\Задача.1. Сравняване на символни масиви\obj\Debug\Задача._1.Сравняване_на_символни_масиви.exe
+D:\Users\DA\Documents\DA\DAIT\Sortirane na masivi\Задача.1. Сравняване на символни масиви\obj\Debug\Задача._1.Сравняване_на_символни_масиви.pdb

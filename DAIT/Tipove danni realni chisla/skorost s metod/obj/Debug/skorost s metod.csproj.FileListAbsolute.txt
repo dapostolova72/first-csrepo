@@ -1,0 +1,7 @@
+D:\Users\DA\Documents\DA\DAIT\Tipove danni realni chisla\skorost s metod\bin\Debug\skorost s metod.exe.config
+D:\Users\DA\Documents\DA\DAIT\Tipove danni realni chisla\skorost s metod\bin\Debug\skorost s metod.exe
+D:\Users\DA\Documents\DA\DAIT\Tipove danni realni chisla\skorost s metod\bin\Debug\skorost s metod.pdb
+D:\Users\DA\Documents\DA\DAIT\Tipove danni realni chisla\skorost s metod\obj\Debug\skorost s metod.csprojAssemblyReference.cache
+D:\Users\DA\Documents\DA\DAIT\Tipove danni realni chisla\skorost s metod\obj\Debug\skorost s metod.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Tipove danni realni chisla\skorost s metod\obj\Debug\skorost s metod.exe
+D:\Users\DA\Documents\DA\DAIT\Tipove danni realni chisla\skorost s metod\obj\Debug\skorost s metod.pdb

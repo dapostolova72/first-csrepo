@@ -1,0 +1,6 @@
+D:\Users\DA\Documents\DA\DAIT\Серия от проверки\4. Конвертор за мерни единици\bin\Debug\_4.Конвертор_за_мерни_единици.exe.config
+D:\Users\DA\Documents\DA\DAIT\Серия от проверки\4. Конвертор за мерни единици\bin\Debug\_4.Конвертор_за_мерни_единици.exe
+D:\Users\DA\Documents\DA\DAIT\Серия от проверки\4. Конвертор за мерни единици\bin\Debug\_4.Конвертор_за_мерни_единици.pdb
+D:\Users\DA\Documents\DA\DAIT\Серия от проверки\4. Конвертор за мерни единици\obj\Debug\4. Конвертор за мерни единици.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAIT\Серия от проверки\4. Конвертор за мерни единици\obj\Debug\_4.Конвертор_за_мерни_единици.exe
+D:\Users\DA\Documents\DA\DAIT\Серия от проверки\4. Конвертор за мерни единици\obj\Debug\_4.Конвертор_за_мерни_единици.pdb
