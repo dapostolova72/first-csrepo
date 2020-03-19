@@ -1,6 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Повторения от по-висока сложност\chetni s provrka\bin\Debug\chetni s provrka.exe.config
-D:\Users\DA\Documents\DA\DAIT\Повторения от по-висока сложност\chetni s provrka\bin\Debug\chetni s provrka.exe
-D:\Users\DA\Documents\DA\DAIT\Повторения от по-висока сложност\chetni s provrka\bin\Debug\chetni s provrka.pdb
-D:\Users\DA\Documents\DA\DAIT\Повторения от по-висока сложност\chetni s provrka\obj\Debug\chetni s provrka.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Повторения от по-висока сложност\chetni s provrka\obj\Debug\chetni s provrka.exe
-D:\Users\DA\Documents\DA\DAIT\Повторения от по-висока сложност\chetni s provrka\obj\Debug\chetni s provrka.pdb

@@ -1,6 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\metod clear\bin\Debug\metod clear.exe.config
-D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\metod clear\bin\Debug\metod clear.exe
-D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\metod clear\bin\Debug\metod clear.pdb
-D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\metod clear\obj\Debug\metod clear.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\metod clear\obj\Debug\metod clear.exe
-D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\metod clear\obj\Debug\metod clear.pdb

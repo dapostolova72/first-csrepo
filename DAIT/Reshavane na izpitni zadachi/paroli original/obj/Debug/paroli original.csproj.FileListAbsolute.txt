@@ -1,6 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Reshavane na izpitni zadachi\paroli original\bin\Debug\paroli original.exe.config
-D:\Users\DA\Documents\DA\DAIT\Reshavane na izpitni zadachi\paroli original\bin\Debug\paroli original.exe
-D:\Users\DA\Documents\DA\DAIT\Reshavane na izpitni zadachi\paroli original\bin\Debug\paroli original.pdb
-D:\Users\DA\Documents\DA\DAIT\Reshavane na izpitni zadachi\paroli original\obj\Debug\paroli original.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Reshavane na izpitni zadachi\paroli original\obj\Debug\paroli original.exe
-D:\Users\DA\Documents\DA\DAIT\Reshavane na izpitni zadachi\paroli original\obj\Debug\paroli original.pdb

@@ -1,6 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Metodi\По-голямата от две стойности\obj\Debug\По-голямата от две стойности.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Metodi\По-голямата от две стойности\bin\Debug\По-голямата от две стойности.exe.config
-D:\Users\DA\Documents\DA\DAIT\Metodi\По-голямата от две стойности\bin\Debug\По-голямата от две стойности.exe
-D:\Users\DA\Documents\DA\DAIT\Metodi\По-голямата от две стойности\bin\Debug\По-голямата от две стойности.pdb
-D:\Users\DA\Documents\DA\DAIT\Metodi\По-голямата от две стойности\obj\Debug\По-голямата от две стойности.exe
-D:\Users\DA\Documents\DA\DAIT\Metodi\По-голямата от две стойности\obj\Debug\По-голямата от две стойности.pdb

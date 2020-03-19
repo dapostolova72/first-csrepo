@@ -1,7 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Metod s masivii Upr1\Задача.3. Множество от сумите на последните k числа\bin\Debug\Задача._3.Множество_от_сумите_на_последните_k_числа.exe.config
-D:\Users\DA\Documents\DA\DAIT\Metod s masivii Upr1\Задача.3. Множество от сумите на последните k числа\bin\Debug\Задача._3.Множество_от_сумите_на_последните_k_числа.exe
-D:\Users\DA\Documents\DA\DAIT\Metod s masivii Upr1\Задача.3. Множество от сумите на последните k числа\bin\Debug\Задача._3.Множество_от_сумите_на_последните_k_числа.pdb
-D:\Users\DA\Documents\DA\DAIT\Metod s masivii Upr1\Задача.3. Множество от сумите на последните k числа\obj\Debug\Задача.3. Множество от сумите на последните k числа.csprojAssemblyReference.cache
-D:\Users\DA\Documents\DA\DAIT\Metod s masivii Upr1\Задача.3. Множество от сумите на последните k числа\obj\Debug\Задача.3. Множество от сумите на последните k числа.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Metod s masivii Upr1\Задача.3. Множество от сумите на последните k числа\obj\Debug\Задача._3.Множество_от_сумите_на_последните_k_числа.exe
-D:\Users\DA\Documents\DA\DAIT\Metod s masivii Upr1\Задача.3. Множество от сумите на последните k числа\obj\Debug\Задача._3.Множество_от_сумите_на_последните_k_числа.pdb

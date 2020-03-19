@@ -1,6 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Metodi\Връща стойност string\bin\Debug\Връща стойност string.exe.config
-D:\Users\DA\Documents\DA\DAIT\Metodi\Връща стойност string\bin\Debug\Връща стойност string.exe
-D:\Users\DA\Documents\DA\DAIT\Metodi\Връща стойност string\bin\Debug\Връща стойност string.pdb
-D:\Users\DA\Documents\DA\DAIT\Metodi\Връща стойност string\obj\Debug\Връща стойност string.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Metodi\Връща стойност string\obj\Debug\Връща стойност string.exe
-D:\Users\DA\Documents\DA\DAIT\Metodi\Връща стойност string\obj\Debug\Връща стойност string.pdb

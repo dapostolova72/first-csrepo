@@ -1,6 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\24042016\specialni chisla\obj\Debug\specialni chisla.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\24042016\specialni chisla\bin\Debug\specialni chisla.exe.config
-D:\Users\DA\Documents\DA\DAIT\24042016\specialni chisla\bin\Debug\specialni chisla.exe
-D:\Users\DA\Documents\DA\DAIT\24042016\specialni chisla\bin\Debug\specialni chisla.pdb
-D:\Users\DA\Documents\DA\DAIT\24042016\specialni chisla\obj\Debug\specialni chisla.exe
-D:\Users\DA\Documents\DA\DAIT\24042016\specialni chisla\obj\Debug\specialni chisla.pdb

@@ -1,6 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Masivi Uprajnenie2\obrashtane na niz\bin\Debug\obrashtane na niz.exe.config
-D:\Users\DA\Documents\DA\DAIT\Masivi Uprajnenie2\obrashtane na niz\bin\Debug\obrashtane na niz.exe
-D:\Users\DA\Documents\DA\DAIT\Masivi Uprajnenie2\obrashtane na niz\bin\Debug\obrashtane na niz.pdb
-D:\Users\DA\Documents\DA\DAIT\Masivi Uprajnenie2\obrashtane na niz\obj\Debug\obrashtane na niz.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Masivi Uprajnenie2\obrashtane na niz\obj\Debug\obrashtane na niz.exe
-D:\Users\DA\Documents\DA\DAIT\Masivi Uprajnenie2\obrashtane na niz\obj\Debug\obrashtane na niz.pdb

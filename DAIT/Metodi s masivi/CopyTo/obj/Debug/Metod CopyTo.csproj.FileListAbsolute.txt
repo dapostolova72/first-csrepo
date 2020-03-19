@@ -1,6 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\CopyTo\bin\Debug\CopyTo.exe.config
-D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\CopyTo\bin\Debug\CopyTo.exe
-D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\CopyTo\bin\Debug\CopyTo.pdb
-D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\CopyTo\obj\Debug\Metod CopyTo.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\CopyTo\obj\Debug\CopyTo.exe
-D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\CopyTo\obj\Debug\CopyTo.pdb

@@ -1,6 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Повторения от по-висока сложност\chetni 2\obj\Debug\chetni 2.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Повторения от по-висока сложност\chetni 2\bin\Debug\chetni 2.exe.config
-D:\Users\DA\Documents\DA\DAIT\Повторения от по-висока сложност\chetni 2\bin\Debug\chetni 2.exe
-D:\Users\DA\Documents\DA\DAIT\Повторения от по-висока сложност\chetni 2\bin\Debug\chetni 2.pdb
-D:\Users\DA\Documents\DA\DAIT\Повторения от по-висока сложност\chetni 2\obj\Debug\chetni 2.exe
-D:\Users\DA\Documents\DA\DAIT\Повторения от по-висока сложност\chetni 2\obj\Debug\chetni 2.pdb

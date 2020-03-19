@@ -1,7 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Въвеждане елементи на масив\Въвеждане на масив от един ред\bin\Debug\Въвеждане на масив от един ред.exe.config
-D:\Users\DA\Documents\DA\DAIT\Въвеждане елементи на масив\Въвеждане на масив от един ред\bin\Debug\Въвеждане на масив от един ред.exe
-D:\Users\DA\Documents\DA\DAIT\Въвеждане елементи на масив\Въвеждане на масив от един ред\bin\Debug\Въвеждане на масив от един ред.pdb
-D:\Users\DA\Documents\DA\DAIT\Въвеждане елементи на масив\Въвеждане на масив от един ред\obj\Debug\Въвеждане на масив от един ред.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Въвеждане елементи на масив\Въвеждане на масив от един ред\obj\Debug\Въвеждане на масив от един ред.exe
-D:\Users\DA\Documents\DA\DAIT\Въвеждане елементи на масив\Въвеждане на масив от един ред\obj\Debug\Въвеждане на масив от един ред.pdb
-D:\Users\DA\Documents\DA\DAIT\Въвеждане елементи на масив\Въвеждане на масив от един ред\obj\Debug\Въвеждане на масив от един ред.csprojAssemblyReference.cache

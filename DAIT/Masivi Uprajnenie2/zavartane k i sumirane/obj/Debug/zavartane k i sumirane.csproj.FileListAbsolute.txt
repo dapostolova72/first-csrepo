@@ -1,7 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Masivi Uprajnenie2\zavartane k i sumirane\bin\Debug\zavartane k i sumirane.exe.config
-D:\Users\DA\Documents\DA\DAIT\Masivi Uprajnenie2\zavartane k i sumirane\bin\Debug\zavartane k i sumirane.exe
-D:\Users\DA\Documents\DA\DAIT\Masivi Uprajnenie2\zavartane k i sumirane\bin\Debug\zavartane k i sumirane.pdb
-D:\Users\DA\Documents\DA\DAIT\Masivi Uprajnenie2\zavartane k i sumirane\obj\Debug\zavartane k i sumirane.csprojAssemblyReference.cache
-D:\Users\DA\Documents\DA\DAIT\Masivi Uprajnenie2\zavartane k i sumirane\obj\Debug\zavartane k i sumirane.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Masivi Uprajnenie2\zavartane k i sumirane\obj\Debug\zavartane k i sumirane.exe
-D:\Users\DA\Documents\DA\DAIT\Masivi Uprajnenie2\zavartane k i sumirane\obj\Debug\zavartane k i sumirane.pdb

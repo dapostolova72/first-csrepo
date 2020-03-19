@@ -1,6 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Dolari\bin\Debug\Dolari.exe.config
-D:\Users\DA\Documents\DA\DAIT\Dolari\bin\Debug\Dolari.exe
-D:\Users\DA\Documents\DA\DAIT\Dolari\bin\Debug\Dolari.pdb
-D:\Users\DA\Documents\DA\DAIT\Dolari\obj\Debug\Dolari.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Dolari\obj\Debug\Dolari.exe
-D:\Users\DA\Documents\DA\DAIT\Dolari\obj\Debug\Dolari.pdb

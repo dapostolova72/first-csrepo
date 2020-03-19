@@ -1,6 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\24042016\bufer\bin\Debug\bufer.exe.config
-D:\Users\DA\Documents\DA\DAIT\24042016\bufer\bin\Debug\bufer.exe
-D:\Users\DA\Documents\DA\DAIT\24042016\bufer\bin\Debug\bufer.pdb
-D:\Users\DA\Documents\DA\DAIT\24042016\bufer\obj\Debug\bufer.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\24042016\bufer\obj\Debug\bufer.exe
-D:\Users\DA\Documents\DA\DAIT\24042016\bufer\obj\Debug\bufer.pdb

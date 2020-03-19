@@ -1,7 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Metodi\Suma chetni nechetni\bin\Debug\Suma chetni nechetni.exe.config
-D:\Users\DA\Documents\DA\DAIT\Metodi\Suma chetni nechetni\bin\Debug\Suma chetni nechetni.exe
-D:\Users\DA\Documents\DA\DAIT\Metodi\Suma chetni nechetni\bin\Debug\Suma chetni nechetni.pdb
-D:\Users\DA\Documents\DA\DAIT\Metodi\Suma chetni nechetni\obj\Debug\Suma chetni nechetni.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Metodi\Suma chetni nechetni\obj\Debug\Suma chetni nechetni.exe
-D:\Users\DA\Documents\DA\DAIT\Metodi\Suma chetni nechetni\obj\Debug\Suma chetni nechetni.pdb
-D:\Users\DA\Documents\DA\DAIT\Metodi\Suma chetni nechetni\obj\Debug\Suma chetni nechetni.csprojAssemblyReference.cache

@@ -1,7 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Preobrazuvane na tipove\Специални числа\bin\Debug\Специални числа.exe.config
-D:\Users\DA\Documents\DA\DAIT\Preobrazuvane na tipove\Специални числа\bin\Debug\Специални числа.exe
-D:\Users\DA\Documents\DA\DAIT\Preobrazuvane na tipove\Специални числа\bin\Debug\Специални числа.pdb
-D:\Users\DA\Documents\DA\DAIT\Preobrazuvane na tipove\Специални числа\obj\Debug\Специални числа.csprojAssemblyReference.cache
-D:\Users\DA\Documents\DA\DAIT\Preobrazuvane na tipove\Специални числа\obj\Debug\Специални числа.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Preobrazuvane na tipove\Специални числа\obj\Debug\Специални числа.exe
-D:\Users\DA\Documents\DA\DAIT\Preobrazuvane na tipove\Специални числа\obj\Debug\Специални числа.pdb

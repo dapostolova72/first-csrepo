@@ -1,6 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Tipove danni\4. Размяна на стойности на променливи\bin\Debug\_4.Размяна_на_стойности_на_променливи.exe.config
-D:\Users\DA\Documents\DA\DAIT\Tipove danni\4. Размяна на стойности на променливи\bin\Debug\_4.Размяна_на_стойности_на_променливи.exe
-D:\Users\DA\Documents\DA\DAIT\Tipove danni\4. Размяна на стойности на променливи\bin\Debug\_4.Размяна_на_стойности_на_променливи.pdb
-D:\Users\DA\Documents\DA\DAIT\Tipove danni\4. Размяна на стойности на променливи\obj\Debug\4. Размяна на стойности на променливи.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Tipove danni\4. Размяна на стойности на променливи\obj\Debug\_4.Размяна_на_стойности_на_променливи.exe
-D:\Users\DA\Documents\DA\DAIT\Tipove danni\4. Размяна на стойности на променливи\obj\Debug\_4.Размяна_на_стойности_на_променливи.pdb

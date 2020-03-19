@@ -1,6 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Логически изрази и проверки\Време +15\bin\Debug\Време +15.exe.config
-D:\Users\DA\Documents\DA\DAIT\Логически изрази и проверки\Време +15\bin\Debug\Време +15.exe
-D:\Users\DA\Documents\DA\DAIT\Логически изрази и проверки\Време +15\bin\Debug\Време +15.pdb
-D:\Users\DA\Documents\DA\DAIT\Логически изрази и проверки\Време +15\obj\Debug\Време +15.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Логически изрази и проверки\Време +15\obj\Debug\Време +15.exe
-D:\Users\DA\Documents\DA\DAIT\Логически изрази и проверки\Време +15\obj\Debug\Време +15.pdb

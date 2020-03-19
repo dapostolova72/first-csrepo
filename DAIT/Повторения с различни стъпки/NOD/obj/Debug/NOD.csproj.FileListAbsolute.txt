@@ -1,6 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Повторения с различни стъпки\NOD\bin\Debug\NOD.exe.config
-D:\Users\DA\Documents\DA\DAIT\Повторения с различни стъпки\NOD\bin\Debug\NOD.exe
-D:\Users\DA\Documents\DA\DAIT\Повторения с различни стъпки\NOD\bin\Debug\NOD.pdb
-D:\Users\DA\Documents\DA\DAIT\Повторения с различни стъпки\NOD\obj\Debug\NOD.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Повторения с различни стъпки\NOD\obj\Debug\NOD.exe
-D:\Users\DA\Documents\DA\DAIT\Повторения с различни стъпки\NOD\obj\Debug\NOD.pdb

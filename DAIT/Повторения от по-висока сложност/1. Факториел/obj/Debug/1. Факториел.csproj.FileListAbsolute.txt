@@ -1,7 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Повторения от по-висока сложност\1. Факториел\bin\Debug\_1.Факториел.exe.config
-D:\Users\DA\Documents\DA\DAIT\Повторения от по-висока сложност\1. Факториел\bin\Debug\_1.Факториел.exe
-D:\Users\DA\Documents\DA\DAIT\Повторения от по-висока сложност\1. Факториел\bin\Debug\_1.Факториел.pdb
-D:\Users\DA\Documents\DA\DAIT\Повторения от по-висока сложност\1. Факториел\obj\Debug\1. Факториел.csprojAssemblyReference.cache
-D:\Users\DA\Documents\DA\DAIT\Повторения от по-висока сложност\1. Факториел\obj\Debug\1. Факториел.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Повторения от по-висока сложност\1. Факториел\obj\Debug\_1.Факториел.exe
-D:\Users\DA\Documents\DA\DAIT\Повторения от по-висока сложност\1. Факториел\obj\Debug\_1.Факториел.pdb

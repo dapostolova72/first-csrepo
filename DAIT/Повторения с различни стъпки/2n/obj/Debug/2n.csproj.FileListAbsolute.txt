@@ -1,7 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Повторения с различни стъпки\2n\bin\Debug\2n.exe.config
-D:\Users\DA\Documents\DA\DAIT\Повторения с различни стъпки\2n\bin\Debug\2n.exe
-D:\Users\DA\Documents\DA\DAIT\Повторения с различни стъпки\2n\bin\Debug\2n.pdb
-D:\Users\DA\Documents\DA\DAIT\Повторения с различни стъпки\2n\obj\Debug\2n.csprojAssemblyReference.cache
-D:\Users\DA\Documents\DA\DAIT\Повторения с различни стъпки\2n\obj\Debug\2n.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Повторения с различни стъпки\2n\obj\Debug\2n.exe
-D:\Users\DA\Documents\DA\DAIT\Повторения с различни стъпки\2n\obj\Debug\2n.pdb

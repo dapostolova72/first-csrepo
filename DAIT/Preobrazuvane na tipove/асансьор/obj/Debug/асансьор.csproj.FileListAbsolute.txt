@@ -1,7 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Preobrazuvane na tipove\асансьор\bin\Debug\асансьор.exe.config
-D:\Users\DA\Documents\DA\DAIT\Preobrazuvane na tipove\асансьор\bin\Debug\асансьор.exe
-D:\Users\DA\Documents\DA\DAIT\Preobrazuvane na tipove\асансьор\bin\Debug\асансьор.pdb
-D:\Users\DA\Documents\DA\DAIT\Preobrazuvane na tipove\асансьор\obj\Debug\асансьор.csprojAssemblyReference.cache
-D:\Users\DA\Documents\DA\DAIT\Preobrazuvane na tipove\асансьор\obj\Debug\асансьор.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Preobrazuvane na tipove\асансьор\obj\Debug\асансьор.exe
-D:\Users\DA\Documents\DA\DAIT\Preobrazuvane na tipove\асансьор\obj\Debug\асансьор.pdb

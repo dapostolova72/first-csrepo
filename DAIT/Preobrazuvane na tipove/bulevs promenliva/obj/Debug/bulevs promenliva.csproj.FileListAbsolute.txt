@@ -1,6 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Preobrazuvane na tipove\bulevs promenliva\bin\Debug\bulevs promenliva.exe.config
-D:\Users\DA\Documents\DA\DAIT\Preobrazuvane na tipove\bulevs promenliva\bin\Debug\bulevs promenliva.exe
-D:\Users\DA\Documents\DA\DAIT\Preobrazuvane na tipove\bulevs promenliva\bin\Debug\bulevs promenliva.pdb
-D:\Users\DA\Documents\DA\DAIT\Preobrazuvane na tipove\bulevs promenliva\obj\Debug\bulevs promenliva.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Preobrazuvane na tipove\bulevs promenliva\obj\Debug\bulevs promenliva.exe
-D:\Users\DA\Documents\DA\DAIT\Preobrazuvane na tipove\bulevs promenliva\obj\Debug\bulevs promenliva.pdb

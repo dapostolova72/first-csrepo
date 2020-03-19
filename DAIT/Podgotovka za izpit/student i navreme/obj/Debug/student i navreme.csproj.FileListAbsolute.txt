@@ -1,7 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Podgotovka za izpit\student i navreme\obj\Debug\student i navreme.csprojAssemblyReference.cache
-D:\Users\DA\Documents\DA\DAIT\Podgotovka za izpit\student i navreme\obj\Debug\student i navreme.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Podgotovka za izpit\student i navreme\bin\Debug\student i navreme.exe.config
-D:\Users\DA\Documents\DA\DAIT\Podgotovka za izpit\student i navreme\bin\Debug\student i navreme.exe
-D:\Users\DA\Documents\DA\DAIT\Podgotovka za izpit\student i navreme\bin\Debug\student i navreme.pdb
-D:\Users\DA\Documents\DA\DAIT\Podgotovka za izpit\student i navreme\obj\Debug\student i navreme.exe
-D:\Users\DA\Documents\DA\DAIT\Podgotovka za izpit\student i navreme\obj\Debug\student i navreme.pdb

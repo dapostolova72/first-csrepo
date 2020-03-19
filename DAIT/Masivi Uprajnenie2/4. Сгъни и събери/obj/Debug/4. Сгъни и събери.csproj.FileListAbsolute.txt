@@ -1,7 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Masivi Uprajnenie2\4. Сгъни и събери\bin\Debug\_4.Сгъни_и_събери.exe.config
-D:\Users\DA\Documents\DA\DAIT\Masivi Uprajnenie2\4. Сгъни и събери\bin\Debug\_4.Сгъни_и_събери.exe
-D:\Users\DA\Documents\DA\DAIT\Masivi Uprajnenie2\4. Сгъни и събери\bin\Debug\_4.Сгъни_и_събери.pdb
-D:\Users\DA\Documents\DA\DAIT\Masivi Uprajnenie2\4. Сгъни и събери\obj\Debug\4. Сгъни и събери.csprojAssemblyReference.cache
-D:\Users\DA\Documents\DA\DAIT\Masivi Uprajnenie2\4. Сгъни и събери\obj\Debug\4. Сгъни и събери.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Masivi Uprajnenie2\4. Сгъни и събери\obj\Debug\_4.Сгъни_и_събери.exe
-D:\Users\DA\Documents\DA\DAIT\Masivi Uprajnenie2\4. Сгъни и събери\obj\Debug\_4.Сгъни_и_събери.pdb

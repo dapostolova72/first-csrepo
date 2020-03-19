@@ -1,6 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Въвеждане елементи на масив\Извеждане на масив с foreach\bin\Debug\Извеждане на масив с foreach.exe.config
-D:\Users\DA\Documents\DA\DAIT\Въвеждане елементи на масив\Извеждане на масив с foreach\bin\Debug\Извеждане на масив с foreach.exe
-D:\Users\DA\Documents\DA\DAIT\Въвеждане елементи на масив\Извеждане на масив с foreach\bin\Debug\Извеждане на масив с foreach.pdb
-D:\Users\DA\Documents\DA\DAIT\Въвеждане елементи на масив\Извеждане на масив с foreach\obj\Debug\Извеждане на масив с foreach.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Въвеждане елементи на масив\Извеждане на масив с foreach\obj\Debug\Извеждане на масив с foreach.exe
-D:\Users\DA\Documents\DA\DAIT\Въвеждане елементи на масив\Извеждане на масив с foreach\obj\Debug\Извеждане на масив с foreach.pdb

@@ -1,6 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Логически изрази и проверки\3. Четно или нечетно число\bin\Debug\_3.Четно_или_нечетно_число.exe.config
-D:\Users\DA\Documents\DA\DAIT\Логически изрази и проверки\3. Четно или нечетно число\bin\Debug\_3.Четно_или_нечетно_число.exe
-D:\Users\DA\Documents\DA\DAIT\Логически изрази и проверки\3. Четно или нечетно число\bin\Debug\_3.Четно_или_нечетно_число.pdb
-D:\Users\DA\Documents\DA\DAIT\Логически изрази и проверки\3. Четно или нечетно число\obj\Debug\3. Четно или нечетно число.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Логически изрази и проверки\3. Четно или нечетно число\obj\Debug\_3.Четно_или_нечетно_число.exe
-D:\Users\DA\Documents\DA\DAIT\Логически изрази и проверки\3. Четно или нечетно число\obj\Debug\_3.Четно_или_нечетно_число.pdb

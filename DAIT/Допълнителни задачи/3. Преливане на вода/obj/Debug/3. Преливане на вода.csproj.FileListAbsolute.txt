@@ -1,6 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Допълнителни задачи\3. Преливане на вода\obj\Debug\3. Преливане на вода.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Допълнителни задачи\3. Преливане на вода\bin\Debug\_3.Преливане_на_вода.exe.config
-D:\Users\DA\Documents\DA\DAIT\Допълнителни задачи\3. Преливане на вода\bin\Debug\_3.Преливане_на_вода.exe
-D:\Users\DA\Documents\DA\DAIT\Допълнителни задачи\3. Преливане на вода\bin\Debug\_3.Преливане_на_вода.pdb
-D:\Users\DA\Documents\DA\DAIT\Допълнителни задачи\3. Преливане на вода\obj\Debug\_3.Преливане_на_вода.exe
-D:\Users\DA\Documents\DA\DAIT\Допълнителни задачи\3. Преливане на вода\obj\Debug\_3.Преливане_на_вода.pdb

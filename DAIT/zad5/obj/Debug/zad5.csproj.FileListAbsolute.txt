@@ -1,6 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\zad5\obj\Debug\zad5.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\zad5\bin\Debug\zad5.exe.config
-D:\Users\DA\Documents\DA\DAIT\zad5\bin\Debug\zad5.exe
-D:\Users\DA\Documents\DA\DAIT\zad5\bin\Debug\zad5.pdb
-D:\Users\DA\Documents\DA\DAIT\zad5\obj\Debug\zad5.exe
-D:\Users\DA\Documents\DA\DAIT\zad5\obj\Debug\zad5.pdb

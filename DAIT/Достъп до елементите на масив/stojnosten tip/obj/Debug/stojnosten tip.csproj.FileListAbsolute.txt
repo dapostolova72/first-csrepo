@@ -1,6 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Достъп до елементите на масив\stojnosten tip\obj\Debug\stojnosten tip.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Достъп до елементите на масив\stojnosten tip\bin\Debug\stojnosten tip.exe.config
-D:\Users\DA\Documents\DA\DAIT\Достъп до елементите на масив\stojnosten tip\bin\Debug\stojnosten tip.exe
-D:\Users\DA\Documents\DA\DAIT\Достъп до елементите на масив\stojnosten tip\bin\Debug\stojnosten tip.pdb
-D:\Users\DA\Documents\DA\DAIT\Достъп до елементите на масив\stojnosten tip\obj\Debug\stojnosten tip.exe
-D:\Users\DA\Documents\DA\DAIT\Достъп до елементите на масив\stojnosten tip\obj\Debug\stojnosten tip.pdb

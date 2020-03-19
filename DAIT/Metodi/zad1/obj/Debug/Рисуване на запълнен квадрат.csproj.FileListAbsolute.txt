@@ -1,7 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Metodi\zad1\bin\Debug\zad1.exe.config
-D:\Users\DA\Documents\DA\DAIT\Metodi\zad1\bin\Debug\zad1.exe
-D:\Users\DA\Documents\DA\DAIT\Metodi\zad1\bin\Debug\zad1.pdb
-D:\Users\DA\Documents\DA\DAIT\Metodi\zad1\obj\Debug\Рисуване на запълнен квадрат.csprojAssemblyReference.cache
-D:\Users\DA\Documents\DA\DAIT\Metodi\zad1\obj\Debug\Рисуване на запълнен квадрат.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Metodi\zad1\obj\Debug\zad1.exe
-D:\Users\DA\Documents\DA\DAIT\Metodi\zad1\obj\Debug\zad1.pdb

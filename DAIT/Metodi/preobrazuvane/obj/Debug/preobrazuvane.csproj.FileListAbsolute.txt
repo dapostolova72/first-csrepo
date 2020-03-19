@@ -1,6 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Metodi\preobrazuvane\bin\Debug\preobrazuvane.exe.config
-D:\Users\DA\Documents\DA\DAIT\Metodi\preobrazuvane\bin\Debug\preobrazuvane.exe
-D:\Users\DA\Documents\DA\DAIT\Metodi\preobrazuvane\bin\Debug\preobrazuvane.pdb
-D:\Users\DA\Documents\DA\DAIT\Metodi\preobrazuvane\obj\Debug\preobrazuvane.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Metodi\preobrazuvane\obj\Debug\preobrazuvane.exe
-D:\Users\DA\Documents\DA\DAIT\Metodi\preobrazuvane\obj\Debug\preobrazuvane.pdb

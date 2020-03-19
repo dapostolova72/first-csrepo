@@ -1,7 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Практически задачи прости задачи върху масиви сумиране максимален елемент търсене на елемент\povtariashti chisla 2\obj\Debug\povtariashti chisla 2.csprojAssemblyReference.cache
-D:\Users\DA\Documents\DA\DAIT\Практически задачи прости задачи върху масиви сумиране максимален елемент търсене на елемент\povtariashti chisla 2\obj\Debug\povtariashti chisla 2.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Практически задачи прости задачи върху масиви сумиране максимален елемент търсене на елемент\povtariashti chisla 2\bin\Debug\povtariashti chisla 2.exe.config
-D:\Users\DA\Documents\DA\DAIT\Практически задачи прости задачи върху масиви сумиране максимален елемент търсене на елемент\povtariashti chisla 2\bin\Debug\povtariashti chisla 2.exe
-D:\Users\DA\Documents\DA\DAIT\Практически задачи прости задачи върху масиви сумиране максимален елемент търсене на елемент\povtariashti chisla 2\bin\Debug\povtariashti chisla 2.pdb
-D:\Users\DA\Documents\DA\DAIT\Практически задачи прости задачи върху масиви сумиране максимален елемент търсене на елемент\povtariashti chisla 2\obj\Debug\povtariashti chisla 2.exe
-D:\Users\DA\Documents\DA\DAIT\Практически задачи прости задачи върху масиви сумиране максимален елемент търсене на елемент\povtariashti chisla 2\obj\Debug\povtariashti chisla 2.pdb

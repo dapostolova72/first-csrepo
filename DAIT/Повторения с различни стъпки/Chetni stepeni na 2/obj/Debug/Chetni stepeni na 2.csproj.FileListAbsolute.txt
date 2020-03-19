@@ -1,6 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Повторения с различни стъпки\Chetni stepeni na 2\bin\Debug\Chetni stepeni na 2.exe.config
-D:\Users\DA\Documents\DA\DAIT\Повторения с различни стъпки\Chetni stepeni na 2\bin\Debug\Chetni stepeni na 2.exe
-D:\Users\DA\Documents\DA\DAIT\Повторения с различни стъпки\Chetni stepeni na 2\bin\Debug\Chetni stepeni na 2.pdb
-D:\Users\DA\Documents\DA\DAIT\Повторения с различни стъпки\Chetni stepeni na 2\obj\Debug\Chetni stepeni na 2.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Повторения с различни стъпки\Chetni stepeni na 2\obj\Debug\Chetni stepeni na 2.exe
-D:\Users\DA\Documents\DA\DAIT\Повторения с различни стъпки\Chetni stepeni na 2\obj\Debug\Chetni stepeni na 2.pdb

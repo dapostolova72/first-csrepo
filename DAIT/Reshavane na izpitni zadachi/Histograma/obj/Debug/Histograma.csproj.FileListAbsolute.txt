@@ -1,7 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Reshavane na izpitni zadachi\Histograma\bin\Debug\Histograma.exe.config
-D:\Users\DA\Documents\DA\DAIT\Reshavane na izpitni zadachi\Histograma\bin\Debug\Histograma.exe
-D:\Users\DA\Documents\DA\DAIT\Reshavane na izpitni zadachi\Histograma\bin\Debug\Histograma.pdb
-D:\Users\DA\Documents\DA\DAIT\Reshavane na izpitni zadachi\Histograma\obj\Debug\Histograma.csprojAssemblyReference.cache
-D:\Users\DA\Documents\DA\DAIT\Reshavane na izpitni zadachi\Histograma\obj\Debug\Histograma.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Reshavane na izpitni zadachi\Histograma\obj\Debug\Histograma.exe
-D:\Users\DA\Documents\DA\DAIT\Reshavane na izpitni zadachi\Histograma\obj\Debug\Histograma.pdb

@@ -1,7 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\24042016\24042016\obj\Debug\24042016.csprojAssemblyReference.cache
-D:\Users\DA\Documents\DA\DAIT\24042016\24042016\obj\Debug\24042016.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\24042016\24042016\bin\Debug\24042016.exe.config
-D:\Users\DA\Documents\DA\DAIT\24042016\24042016\bin\Debug\24042016.exe
-D:\Users\DA\Documents\DA\DAIT\24042016\24042016\bin\Debug\24042016.pdb
-D:\Users\DA\Documents\DA\DAIT\24042016\24042016\obj\Debug\24042016.exe
-D:\Users\DA\Documents\DA\DAIT\24042016\24042016\obj\Debug\24042016.pdb

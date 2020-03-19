@@ -1,6 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Практически задачи прости задачи върху масиви сумиране максимален елемент търсене на елемент\sumira dva po dva\bin\Debug\sumira dva po dva.exe.config
-D:\Users\DA\Documents\DA\DAIT\Практически задачи прости задачи върху масиви сумиране максимален елемент търсене на елемент\sumira dva po dva\bin\Debug\sumira dva po dva.exe
-D:\Users\DA\Documents\DA\DAIT\Практически задачи прости задачи върху масиви сумиране максимален елемент търсене на елемент\sumira dva po dva\bin\Debug\sumira dva po dva.pdb
-D:\Users\DA\Documents\DA\DAIT\Практически задачи прости задачи върху масиви сумиране максимален елемент търсене на елемент\sumira dva po dva\obj\Debug\sumira dva po dva.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Практически задачи прости задачи върху масиви сумиране максимален елемент търсене на елемент\sumira dva po dva\obj\Debug\sumira dva po dva.exe
-D:\Users\DA\Documents\DA\DAIT\Практически задачи прости задачи върху масиви сумиране максимален елемент търсене на елемент\sumira dva po dva\obj\Debug\sumira dva po dva.pdb

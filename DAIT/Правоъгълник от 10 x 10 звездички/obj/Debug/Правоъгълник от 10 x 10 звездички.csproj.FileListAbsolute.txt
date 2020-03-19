@@ -1,7 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Правоъгълник от 10 x 10 звездички\bin\Debug\Правоъгълник от 10 x 10 звездички.exe.config
-D:\Users\DA\Documents\DA\DAIT\Правоъгълник от 10 x 10 звездички\bin\Debug\Правоъгълник от 10 x 10 звездички.exe
-D:\Users\DA\Documents\DA\DAIT\Правоъгълник от 10 x 10 звездички\bin\Debug\Правоъгълник от 10 x 10 звездички.pdb
-D:\Users\DA\Documents\DA\DAIT\Правоъгълник от 10 x 10 звездички\obj\Debug\Правоъгълник от 10 x 10 звездички.csprojAssemblyReference.cache
-D:\Users\DA\Documents\DA\DAIT\Правоъгълник от 10 x 10 звездички\obj\Debug\Правоъгълник от 10 x 10 звездички.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Правоъгълник от 10 x 10 звездички\obj\Debug\Правоъгълник от 10 x 10 звездички.exe
-D:\Users\DA\Documents\DA\DAIT\Правоъгълник от 10 x 10 звездички\obj\Debug\Правоъгълник от 10 x 10 звездички.pdb

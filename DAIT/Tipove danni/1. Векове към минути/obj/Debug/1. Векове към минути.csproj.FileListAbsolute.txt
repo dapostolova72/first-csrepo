@@ -1,7 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Tipove danni\1. Векове към минути\bin\Debug\_1.Векове_към_минути.exe.config
-D:\Users\DA\Documents\DA\DAIT\Tipove danni\1. Векове към минути\bin\Debug\_1.Векове_към_минути.exe
-D:\Users\DA\Documents\DA\DAIT\Tipove danni\1. Векове към минути\bin\Debug\_1.Векове_към_минути.pdb
-D:\Users\DA\Documents\DA\DAIT\Tipove danni\1. Векове към минути\obj\Debug\1. Векове към минути.csprojAssemblyReference.cache
-D:\Users\DA\Documents\DA\DAIT\Tipove danni\1. Векове към минути\obj\Debug\1. Векове към минути.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Tipove danni\1. Векове към минути\obj\Debug\_1.Векове_към_минути.exe
-D:\Users\DA\Documents\DA\DAIT\Tipove danni\1. Векове към минути\obj\Debug\_1.Векове_към_минути.pdb

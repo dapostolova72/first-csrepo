@@ -1,7 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Metodi\ChetniNechetn\ChetniNechetn\bin\Debug\ChetniNechetn.exe.config
-D:\Users\DA\Documents\DA\DAIT\Metodi\ChetniNechetn\ChetniNechetn\bin\Debug\ChetniNechetn.exe
-D:\Users\DA\Documents\DA\DAIT\Metodi\ChetniNechetn\ChetniNechetn\bin\Debug\ChetniNechetn.pdb
-D:\Users\DA\Documents\DA\DAIT\Metodi\ChetniNechetn\ChetniNechetn\obj\Debug\ChetniNechetn.csprojAssemblyReference.cache
-D:\Users\DA\Documents\DA\DAIT\Metodi\ChetniNechetn\ChetniNechetn\obj\Debug\ChetniNechetn.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Metodi\ChetniNechetn\ChetniNechetn\obj\Debug\ChetniNechetn.exe
-D:\Users\DA\Documents\DA\DAIT\Metodi\ChetniNechetn\ChetniNechetn\obj\Debug\ChetniNechetn.pdb

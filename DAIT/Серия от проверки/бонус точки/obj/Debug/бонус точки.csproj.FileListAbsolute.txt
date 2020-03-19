@@ -1,2 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Серия от проверки\бонус точки\obj\Debug\бонус точки.csprojAssemblyReference.cache
-D:\Users\DA\Documents\DA\DAIT\Серия от проверки\бонус точки\obj\Debug\бонус точки.csproj.CoreCompileInputs.cache

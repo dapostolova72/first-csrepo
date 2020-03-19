@@ -1,7 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Въвеждане елементи на масив\Закръгляне на числа\bin\Debug\Закръгляне на числа.exe.config
-D:\Users\DA\Documents\DA\DAIT\Въвеждане елементи на масив\Закръгляне на числа\bin\Debug\Закръгляне на числа.exe
-D:\Users\DA\Documents\DA\DAIT\Въвеждане елементи на масив\Закръгляне на числа\bin\Debug\Закръгляне на числа.pdb
-D:\Users\DA\Documents\DA\DAIT\Въвеждане елементи на масив\Закръгляне на числа\obj\Debug\Закръгляне на числа.csprojAssemblyReference.cache
-D:\Users\DA\Documents\DA\DAIT\Въвеждане елементи на масив\Закръгляне на числа\obj\Debug\Закръгляне на числа.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Въвеждане елементи на масив\Закръгляне на числа\obj\Debug\Закръгляне на числа.exe
-D:\Users\DA\Documents\DA\DAIT\Въвеждане елементи на масив\Закръгляне на числа\obj\Debug\Закръгляне на числа.pdb

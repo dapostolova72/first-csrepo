@@ -1,7 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\metod reverse\bin\Debug\metod reverse.exe.config
-D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\metod reverse\bin\Debug\metod reverse.exe
-D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\metod reverse\bin\Debug\metod reverse.pdb
-D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\metod reverse\obj\Debug\metod reverse.csprojAssemblyReference.cache
-D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\metod reverse\obj\Debug\metod reverse.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\metod reverse\obj\Debug\metod reverse.exe
-D:\Users\DA\Documents\DA\DAIT\Metodi s masivi\metod reverse\obj\Debug\metod reverse.pdb

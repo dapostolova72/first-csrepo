@@ -1,7 +1,0 @@
-D:\Users\DA\Documents\DA\DAIT\24042016\ZnakStop\obj\Debug\ZnakStop.csprojAssemblyReference.cache
-D:\Users\DA\Documents\DA\DAIT\24042016\ZnakStop\obj\Debug\ZnakStop.csproj.CoreCompileInputs.cache
-D:\Users\DA\Documents\DA\DAIT\24042016\ZnakStop\bin\Debug\ZnakStop.exe.config
-D:\Users\DA\Documents\DA\DAIT\24042016\ZnakStop\bin\Debug\ZnakStop.exe
-D:\Users\DA\Documents\DA\DAIT\24042016\ZnakStop\bin\Debug\ZnakStop.pdb
-D:\Users\DA\Documents\DA\DAIT\24042016\ZnakStop\obj\Debug\ZnakStop.exe
-D:\Users\DA\Documents\DA\DAIT\24042016\ZnakStop\obj\Debug\ZnakStop.pdb
