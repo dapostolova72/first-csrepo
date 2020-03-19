@@ -1,0 +1,6 @@
+D:\Users\DA\Documents\DA\DAITProgramirane\Символни низове\Задача.2. Преобразуване от N-ична в 10-ична ПБС\bin\Debug\Задача._2.Преобразуване_от_N_ична_в_10_ична_ПБС.exe.config
+D:\Users\DA\Documents\DA\DAITProgramirane\Символни низове\Задача.2. Преобразуване от N-ична в 10-ична ПБС\bin\Debug\Задача._2.Преобразуване_от_N_ична_в_10_ична_ПБС.exe
+D:\Users\DA\Documents\DA\DAITProgramirane\Символни низове\Задача.2. Преобразуване от N-ична в 10-ична ПБС\bin\Debug\Задача._2.Преобразуване_от_N_ична_в_10_ична_ПБС.pdb
+D:\Users\DA\Documents\DA\DAITProgramirane\Символни низове\Задача.2. Преобразуване от N-ична в 10-ична ПБС\obj\Debug\Задача.2. Преобразуване от N-ична в 10-ична ПБС.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAITProgramirane\Символни низове\Задача.2. Преобразуване от N-ична в 10-ична ПБС\obj\Debug\Задача._2.Преобразуване_от_N_ична_в_10_ична_ПБС.exe
+D:\Users\DA\Documents\DA\DAITProgramirane\Символни низове\Задача.2. Преобразуване от N-ична в 10-ична ПБС\obj\Debug\Задача._2.Преобразуване_от_N_ична_в_10_ична_ПБС.pdb

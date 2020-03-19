@@ -1,0 +1,14 @@
+D:\Users\DA\source\repos\Символни низове\zad1\bin\Debug\zad1.exe.config
+D:\Users\DA\source\repos\Символни низове\zad1\bin\Debug\zad1.exe
+D:\Users\DA\source\repos\Символни низове\zad1\bin\Debug\zad1.pdb
+D:\Users\DA\source\repos\Символни низове\zad1\obj\Debug\zad1.csprojAssemblyReference.cache
+D:\Users\DA\source\repos\Символни низове\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+D:\Users\DA\source\repos\Символни низове\zad1\obj\Debug\zad1.exe
+D:\Users\DA\source\repos\Символни низове\zad1\obj\Debug\zad1.pdb
+D:\Users\DA\Documents\DA\DAITProgramirane\Символни низове\zad1\bin\Debug\zad1.exe.config
+D:\Users\DA\Documents\DA\DAITProgramirane\Символни низове\zad1\bin\Debug\zad1.exe
+D:\Users\DA\Documents\DA\DAITProgramirane\Символни низове\zad1\bin\Debug\zad1.pdb
+D:\Users\DA\Documents\DA\DAITProgramirane\Символни низове\zad1\obj\Debug\zad1.csprojAssemblyReference.cache
+D:\Users\DA\Documents\DA\DAITProgramirane\Символни низове\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAITProgramirane\Символни низове\zad1\obj\Debug\zad1.exe
+D:\Users\DA\Documents\DA\DAITProgramirane\Символни низове\zad1\obj\Debug\zad1.pdb

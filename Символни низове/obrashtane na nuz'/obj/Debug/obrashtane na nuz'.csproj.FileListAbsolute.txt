@@ -1,0 +1,7 @@
+D:\Users\DA\Documents\DA\DAITProgramirane\Символни низове\obrashtane na nuz'\bin\Debug\obrashtane na nuz'.exe.config
+D:\Users\DA\Documents\DA\DAITProgramirane\Символни низове\obrashtane na nuz'\bin\Debug\obrashtane na nuz'.exe
+D:\Users\DA\Documents\DA\DAITProgramirane\Символни низове\obrashtane na nuz'\bin\Debug\obrashtane na nuz'.pdb
+D:\Users\DA\Documents\DA\DAITProgramirane\Символни низове\obrashtane na nuz'\obj\Debug\obrashtane na nuz'.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAITProgramirane\Символни низове\obrashtane na nuz'\obj\Debug\obrashtane na nuz'.exe
+D:\Users\DA\Documents\DA\DAITProgramirane\Символни низове\obrashtane na nuz'\obj\Debug\obrashtane na nuz'.pdb
+D:\Users\DA\Documents\DA\DAITProgramirane\Символни низове\obrashtane na nuz'\obj\Debug\obrashtane na nuz'.csprojAssemblyReference.cache

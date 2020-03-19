@@ -1,0 +1,7 @@
+D:\Users\DA\Documents\DA\DAITProgramirane\Символни низове\unicod\bin\Debug\unicod.exe.config
+D:\Users\DA\Documents\DA\DAITProgramirane\Символни низове\unicod\bin\Debug\unicod.exe
+D:\Users\DA\Documents\DA\DAITProgramirane\Символни низове\unicod\bin\Debug\unicod.pdb
+D:\Users\DA\Documents\DA\DAITProgramirane\Символни низове\unicod\obj\Debug\unicod.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAITProgramirane\Символни низове\unicod\obj\Debug\unicod.exe
+D:\Users\DA\Documents\DA\DAITProgramirane\Символни низове\unicod\obj\Debug\unicod.pdb
+D:\Users\DA\Documents\DA\DAITProgramirane\Символни низове\unicod\obj\Debug\unicod.csprojAssemblyReference.cache
