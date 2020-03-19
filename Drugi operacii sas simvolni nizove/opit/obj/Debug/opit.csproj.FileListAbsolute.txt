@@ -1,0 +1,7 @@
+D:\Users\DA\Documents\DA\DAITProgramirane\Drugi operacii sas simvolni nizove\opit\bin\Debug\opit.exe.config
+D:\Users\DA\Documents\DA\DAITProgramirane\Drugi operacii sas simvolni nizove\opit\bin\Debug\opit.exe
+D:\Users\DA\Documents\DA\DAITProgramirane\Drugi operacii sas simvolni nizove\opit\bin\Debug\opit.pdb
+D:\Users\DA\Documents\DA\DAITProgramirane\Drugi operacii sas simvolni nizove\opit\obj\Debug\opit.csprojAssemblyReference.cache
+D:\Users\DA\Documents\DA\DAITProgramirane\Drugi operacii sas simvolni nizove\opit\obj\Debug\opit.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAITProgramirane\Drugi operacii sas simvolni nizove\opit\obj\Debug\opit.exe
+D:\Users\DA\Documents\DA\DAITProgramirane\Drugi operacii sas simvolni nizove\opit\obj\Debug\opit.pdb

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Търсене в символен низ", "Търсене в символен низ\Търсене в символен низ.csproj", "{598689DF-91FF-4E48-A11B-E64C315FEC04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tyrsene na niz", "tyrsene na niz\tyrsene na niz.csproj", "{46F2A957-1BEF-42C5-93E8-9C6DDF12002E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Извличане на подниз", "Извличане на подниз\Извличане на подниз.csproj", "{C72A78AD-C558-40EE-A95C-80CD1FDA8CF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задача.1. Магически променящи се думи", "Задача.1. Магически променящи се думи\Задача.1. Магически променящи се думи.csproj", "{B1EC55B2-7538-4098-A8BA-2649DF477D15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{598689DF-91FF-4E48-A11B-E64C315FEC04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{598689DF-91FF-4E48-A11B-E64C315FEC04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{598689DF-91FF-4E48-A11B-E64C315FEC04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{598689DF-91FF-4E48-A11B-E64C315FEC04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46F2A957-1BEF-42C5-93E8-9C6DDF12002E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F2A957-1BEF-42C5-93E8-9C6DDF12002E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F2A957-1BEF-42C5-93E8-9C6DDF12002E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F2A957-1BEF-42C5-93E8-9C6DDF12002E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C72A78AD-C558-40EE-A95C-80CD1FDA8CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C72A78AD-C558-40EE-A95C-80CD1FDA8CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C72A78AD-C558-40EE-A95C-80CD1FDA8CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C72A78AD-C558-40EE-A95C-80CD1FDA8CF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1EC55B2-7538-4098-A8BA-2649DF477D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1EC55B2-7538-4098-A8BA-2649DF477D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1EC55B2-7538-4098-A8BA-2649DF477D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1EC55B2-7538-4098-A8BA-2649DF477D15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36BA4E45-0F23-429A-A59F-265468D63A75}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+D:\Users\DA\Documents\DA\DAITProgramirane\Търсене в символен низ1\zadacha\bin\Debug\zadacha.exe.config
+D:\Users\DA\Documents\DA\DAITProgramirane\Търсене в символен низ1\zadacha\bin\Debug\zadacha.exe
+D:\Users\DA\Documents\DA\DAITProgramirane\Търсене в символен низ1\zadacha\bin\Debug\zadacha.pdb
+D:\Users\DA\Documents\DA\DAITProgramirane\Търсене в символен низ1\zadacha\obj\Debug\zadacha.csprojAssemblyReference.cache
+D:\Users\DA\Documents\DA\DAITProgramirane\Търсене в символен низ1\zadacha\obj\Debug\zadacha.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAITProgramirane\Търсене в символен низ1\zadacha\obj\Debug\zadacha.exe
+D:\Users\DA\Documents\DA\DAITProgramirane\Търсене в символен низ1\zadacha\obj\Debug\zadacha.pdb

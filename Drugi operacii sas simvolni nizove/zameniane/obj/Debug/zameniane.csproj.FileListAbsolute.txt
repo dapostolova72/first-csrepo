@@ -1,0 +1,7 @@
+D:\Users\DA\source\repos\Drugi operacii sas simvolni nizove\zameniane\bin\Debug\zameniane.exe.config
+D:\Users\DA\source\repos\Drugi operacii sas simvolni nizove\zameniane\bin\Debug\zameniane.exe
+D:\Users\DA\source\repos\Drugi operacii sas simvolni nizove\zameniane\bin\Debug\zameniane.pdb
+D:\Users\DA\source\repos\Drugi operacii sas simvolni nizove\zameniane\obj\Debug\zameniane.csprojAssemblyReference.cache
+D:\Users\DA\source\repos\Drugi operacii sas simvolni nizove\zameniane\obj\Debug\zameniane.csproj.CoreCompileInputs.cache
+D:\Users\DA\source\repos\Drugi operacii sas simvolni nizove\zameniane\obj\Debug\zameniane.exe
+D:\Users\DA\source\repos\Drugi operacii sas simvolni nizove\zameniane\obj\Debug\zameniane.pdb

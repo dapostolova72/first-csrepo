@@ -1,0 +1,7 @@
+D:\Users\DA\Documents\DA\DAITProgramirane\Търсене в символен низ\Търсене в символен низ\bin\Debug\Търсене в символен низ.exe.config
+D:\Users\DA\Documents\DA\DAITProgramirane\Търсене в символен низ\Търсене в символен низ\bin\Debug\Търсене в символен низ.exe
+D:\Users\DA\Documents\DA\DAITProgramirane\Търсене в символен низ\Търсене в символен низ\bin\Debug\Търсене в символен низ.pdb
+D:\Users\DA\Documents\DA\DAITProgramirane\Търсене в символен низ\Търсене в символен низ\obj\Debug\Търсене в символен низ.csprojAssemblyReference.cache
+D:\Users\DA\Documents\DA\DAITProgramirane\Търсене в символен низ\Търсене в символен низ\obj\Debug\Търсене в символен низ.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAITProgramirane\Търсене в символен низ\Търсене в символен низ\obj\Debug\Търсене в символен низ.exe
+D:\Users\DA\Documents\DA\DAITProgramirane\Търсене в символен низ\Търсене в символен низ\obj\Debug\Търсене в символен низ.pdb

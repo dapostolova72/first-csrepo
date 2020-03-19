@@ -1,0 +1,7 @@
+D:\Users\DA\Documents\DA\DAITProgramirane\Drugi operacii sas simvolni nizove\samo bukvi 3\bin\Debug\samo bukvi 3.exe.config
+D:\Users\DA\Documents\DA\DAITProgramirane\Drugi operacii sas simvolni nizove\samo bukvi 3\bin\Debug\samo bukvi 3.exe
+D:\Users\DA\Documents\DA\DAITProgramirane\Drugi operacii sas simvolni nizove\samo bukvi 3\bin\Debug\samo bukvi 3.pdb
+D:\Users\DA\Documents\DA\DAITProgramirane\Drugi operacii sas simvolni nizove\samo bukvi 3\obj\Debug\samo bukvi 3.csprojAssemblyReference.cache
+D:\Users\DA\Documents\DA\DAITProgramirane\Drugi operacii sas simvolni nizove\samo bukvi 3\obj\Debug\samo bukvi 3.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAITProgramirane\Drugi operacii sas simvolni nizove\samo bukvi 3\obj\Debug\samo bukvi 3.exe
+D:\Users\DA\Documents\DA\DAITProgramirane\Drugi operacii sas simvolni nizove\samo bukvi 3\obj\Debug\samo bukvi 3.pdb

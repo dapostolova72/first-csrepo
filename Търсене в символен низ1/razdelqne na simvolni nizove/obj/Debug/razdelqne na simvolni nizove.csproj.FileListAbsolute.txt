@@ -1,0 +1,6 @@
+D:\Users\DA\source\repos\Търсене в символен низ\razdelqne na simvolni nizove\bin\Debug\razdelqne na simvolni nizove.exe.config
+D:\Users\DA\source\repos\Търсене в символен низ\razdelqne na simvolni nizove\bin\Debug\razdelqne na simvolni nizove.exe
+D:\Users\DA\source\repos\Търсене в символен низ\razdelqne na simvolni nizove\bin\Debug\razdelqne na simvolni nizove.pdb
+D:\Users\DA\source\repos\Търсене в символен низ\razdelqne na simvolni nizove\obj\Debug\razdelqne na simvolni nizove.csproj.CoreCompileInputs.cache
+D:\Users\DA\source\repos\Търсене в символен низ\razdelqne na simvolni nizove\obj\Debug\razdelqne na simvolni nizove.exe
+D:\Users\DA\source\repos\Търсене в символен низ\razdelqne na simvolni nizove\obj\Debug\razdelqne na simvolni nizove.pdb

@@ -1,0 +1,7 @@
+D:\Users\DA\Documents\DA\DAITProgramirane\Drugi operacii sas simvolni nizove\Брой появявания на подниз в низ\bin\Debug\Брой появявания на подниз в низ.exe.config
+D:\Users\DA\Documents\DA\DAITProgramirane\Drugi operacii sas simvolni nizove\Брой появявания на подниз в низ\bin\Debug\Брой появявания на подниз в низ.exe
+D:\Users\DA\Documents\DA\DAITProgramirane\Drugi operacii sas simvolni nizove\Брой появявания на подниз в низ\bin\Debug\Брой появявания на подниз в низ.pdb
+D:\Users\DA\Documents\DA\DAITProgramirane\Drugi operacii sas simvolni nizove\Брой появявания на подниз в низ\obj\Debug\Брой появявания на подниз в низ.csprojAssemblyReference.cache
+D:\Users\DA\Documents\DA\DAITProgramirane\Drugi operacii sas simvolni nizove\Брой появявания на подниз в низ\obj\Debug\Брой появявания на подниз в низ.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAITProgramirane\Drugi operacii sas simvolni nizove\Брой появявания на подниз в низ\obj\Debug\Брой появявания на подниз в низ.exe
+D:\Users\DA\Documents\DA\DAITProgramirane\Drugi operacii sas simvolni nizove\Брой появявания на подниз в низ\obj\Debug\Брой появявания на подниз в низ.pdb

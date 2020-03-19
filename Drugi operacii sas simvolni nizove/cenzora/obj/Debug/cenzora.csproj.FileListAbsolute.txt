@@ -1,0 +1,6 @@
+D:\Users\DA\source\repos\Drugi operacii sas simvolni nizove\cenzora\bin\Debug\cenzora.exe.config
+D:\Users\DA\source\repos\Drugi operacii sas simvolni nizove\cenzora\bin\Debug\cenzora.exe
+D:\Users\DA\source\repos\Drugi operacii sas simvolni nizove\cenzora\bin\Debug\cenzora.pdb
+D:\Users\DA\source\repos\Drugi operacii sas simvolni nizove\cenzora\obj\Debug\cenzora.csproj.CoreCompileInputs.cache
+D:\Users\DA\source\repos\Drugi operacii sas simvolni nizove\cenzora\obj\Debug\cenzora.exe
+D:\Users\DA\source\repos\Drugi operacii sas simvolni nizove\cenzora\obj\Debug\cenzora.pdb

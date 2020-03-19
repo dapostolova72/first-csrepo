@@ -1,0 +1,6 @@
+D:\Users\DA\Documents\DA\DAITProgramirane\Drugi operacii sas simvolni nizove\cenzura2\bin\Debug\cenzura2.exe.config
+D:\Users\DA\Documents\DA\DAITProgramirane\Drugi operacii sas simvolni nizove\cenzura2\bin\Debug\cenzura2.exe
+D:\Users\DA\Documents\DA\DAITProgramirane\Drugi operacii sas simvolni nizove\cenzura2\bin\Debug\cenzura2.pdb
+D:\Users\DA\Documents\DA\DAITProgramirane\Drugi operacii sas simvolni nizove\cenzura2\obj\Debug\cenzura2.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAITProgramirane\Drugi operacii sas simvolni nizove\cenzura2\obj\Debug\cenzura2.exe
+D:\Users\DA\Documents\DA\DAITProgramirane\Drugi operacii sas simvolni nizove\cenzura2\obj\Debug\cenzura2.pdb

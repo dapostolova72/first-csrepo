@@ -1,0 +1,6 @@
+D:\Users\DA\Documents\DA\DAITProgramirane\Търсене в символен низ\Задача.1. Магически променящи се думи\bin\Debug\Задача._1.Магически_променящи_се_думи.exe.config
+D:\Users\DA\Documents\DA\DAITProgramirane\Търсене в символен низ\Задача.1. Магически променящи се думи\bin\Debug\Задача._1.Магически_променящи_се_думи.exe
+D:\Users\DA\Documents\DA\DAITProgramirane\Търсене в символен низ\Задача.1. Магически променящи се думи\bin\Debug\Задача._1.Магически_променящи_се_думи.pdb
+D:\Users\DA\Documents\DA\DAITProgramirane\Търсене в символен низ\Задача.1. Магически променящи се думи\obj\Debug\Задача.1. Магически променящи се думи.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAITProgramirane\Търсене в символен низ\Задача.1. Магически променящи се думи\obj\Debug\Задача._1.Магически_променящи_се_думи.exe
+D:\Users\DA\Documents\DA\DAITProgramirane\Търсене в символен низ\Задача.1. Магически променящи се думи\obj\Debug\Задача._1.Магически_променящи_се_думи.pdb

@@ -1,0 +1,6 @@
+D:\Users\DA\Documents\DA\DAITProgramirane\Търсене в символен низ\Извличане на подниз\bin\Debug\Извличане на подниз.exe.config
+D:\Users\DA\Documents\DA\DAITProgramirane\Търсене в символен низ\Извличане на подниз\bin\Debug\Извличане на подниз.exe
+D:\Users\DA\Documents\DA\DAITProgramirane\Търсене в символен низ\Извличане на подниз\bin\Debug\Извличане на подниз.pdb
+D:\Users\DA\Documents\DA\DAITProgramirane\Търсене в символен низ\Извличане на подниз\obj\Debug\Извличане на подниз.csproj.CoreCompileInputs.cache
+D:\Users\DA\Documents\DA\DAITProgramirane\Търсене в символен низ\Извличане на подниз\obj\Debug\Извличане на подниз.exe
+D:\Users\DA\Documents\DA\DAITProgramirane\Търсене в символен низ\Извличане на подниз\obj\Debug\Извличане на подниз.pdb
